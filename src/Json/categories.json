@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "id": 2,
+      "name": "Graphics",
+      "slug": "graphics"
+    },
+    {
+      "id": 3,
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "id": 4,
+      "name": "Templates",
+      "slug": "templates"
+    },
+    {
+      "id": 5,
+      "name": "Add On",
+      "slug": "add-on"
+    },
+    {
+      "id": 6,
+      "name": "Blogs",
+      "slug": "blogs"
+    }
+  ]
+}
